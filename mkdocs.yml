@@ -1,5 +1,6 @@
-site_name: Roar User Guide
-site_url: https://icds-docs.readthedocs.io/en/latest
+site_name: ICDS User Guide
+site_url: https://docs.icds.psu.edu
+#site_url: https://icds-docs.readthedocs.io/en/latest
 
 theme: 
   name: readthedocs
